@@ -1,0 +1,14 @@
+C:\Users\caitl\source\repos\GelberGroupTakeHome\GelberGroupTakeHome\bin\Debug\net6.0\GelberGroupTakeHome.exe
+C:\Users\caitl\source\repos\GelberGroupTakeHome\GelberGroupTakeHome\bin\Debug\net6.0\GelberGroupTakeHome.deps.json
+C:\Users\caitl\source\repos\GelberGroupTakeHome\GelberGroupTakeHome\bin\Debug\net6.0\GelberGroupTakeHome.runtimeconfig.json
+C:\Users\caitl\source\repos\GelberGroupTakeHome\GelberGroupTakeHome\bin\Debug\net6.0\GelberGroupTakeHome.dll
+C:\Users\caitl\source\repos\GelberGroupTakeHome\GelberGroupTakeHome\bin\Debug\net6.0\GelberGroupTakeHome.pdb
+C:\Users\caitl\source\repos\GelberGroupTakeHome\GelberGroupTakeHome\obj\Debug\net6.0\GelberGroupTakeHome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caitl\source\repos\GelberGroupTakeHome\GelberGroupTakeHome\obj\Debug\net6.0\GelberGroupTakeHome.AssemblyInfoInputs.cache
+C:\Users\caitl\source\repos\GelberGroupTakeHome\GelberGroupTakeHome\obj\Debug\net6.0\GelberGroupTakeHome.AssemblyInfo.cs
+C:\Users\caitl\source\repos\GelberGroupTakeHome\GelberGroupTakeHome\obj\Debug\net6.0\GelberGroupTakeHome.csproj.CoreCompileInputs.cache
+C:\Users\caitl\source\repos\GelberGroupTakeHome\GelberGroupTakeHome\obj\Debug\net6.0\GelberGroupTakeHome.dll
+C:\Users\caitl\source\repos\GelberGroupTakeHome\GelberGroupTakeHome\obj\Debug\net6.0\refint\GelberGroupTakeHome.dll
+C:\Users\caitl\source\repos\GelberGroupTakeHome\GelberGroupTakeHome\obj\Debug\net6.0\GelberGroupTakeHome.pdb
+C:\Users\caitl\source\repos\GelberGroupTakeHome\GelberGroupTakeHome\obj\Debug\net6.0\GelberGroupTakeHome.genruntimeconfig.cache
+C:\Users\caitl\source\repos\GelberGroupTakeHome\GelberGroupTakeHome\obj\Debug\net6.0\ref\GelberGroupTakeHome.dll
