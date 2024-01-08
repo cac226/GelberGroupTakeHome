@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GelberGroupTakeHome", "GelberGroupTakeHome\GelberGroupTakeHome.csproj", "{0FCFCC41-D006-46A2-940F-2C490EB64B46}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrainControllerTests", "TrainControllerTests\TrainControllerTests.csproj", "{A8C9E657-096C-4BE4-886A-B6285951B980}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0FCFCC41-D006-46A2-940F-2C490EB64B46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FCFCC41-D006-46A2-940F-2C490EB64B46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FCFCC41-D006-46A2-940F-2C490EB64B46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FCFCC41-D006-46A2-940F-2C490EB64B46}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8C9E657-096C-4BE4-886A-B6285951B980}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8C9E657-096C-4BE4-886A-B6285951B980}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8C9E657-096C-4BE4-886A-B6285951B980}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8C9E657-096C-4BE4-886A-B6285951B980}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5E2C287F-9111-452E-B673-693B8808DA3E}
+	EndGlobalSection
+EndGlobal
